@@ -1,7 +1,5 @@
-# Sample Spring Cloud Config for the JHipster Registry
+# Spring Cloud Config for Discovery
 
-This is a sample repository used by the [JHipster Registry](https://github.com/jhipster/jhipster-registry).
+This is a default repository used by the [Discovery](https://github.com/afroware/discovery).
 
-When running the JHipster Registry with the `git` profile, it uses this sample repository by default, and will serve the `application.yml` file that is located at the root directory.
-
-For real-world usage, you should replace this repository by your own repository, where you can manage your own Yaml configuration files.
+When running the Discovery with the `git` profile, it uses this repository by default, and will serve the `application.yml` file that is located at the root directory.
